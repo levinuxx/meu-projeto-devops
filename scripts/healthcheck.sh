@@ -28,4 +28,7 @@ echo "[OK] Qtde Processo: $(ps aux | wc -l)"
 SITE=${1:-ubuntu.com}
 echo "[OK] Internet com parametro: ${SITE} $(ping -c 1 ${SITE} > /dev/null 2>&1)"
 
+# 6) Uptime: Tempo Ligado
+echo "[OK] Tempo ligado: $(uptime -p)"
+
 echo "=== Fim do health check ==="
