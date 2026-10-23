@@ -10,3 +10,5 @@ Projeto construído no Bootcamp DevOps Matera 2026.
 ## Como rodar
 docker compose up -d
 
+## Owner
+Levinux
