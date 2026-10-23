@@ -8,3 +8,8 @@ services:
 
   visitas:
     image: redis:alpine
+
+  traefik:
+    image: traefik/whoami
+    ports:
+      - "8081:80"
