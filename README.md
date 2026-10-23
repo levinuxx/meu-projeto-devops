@@ -1,3 +1,5 @@
+[![CI](https://github.com/levinuxx/meu-projeto-devops/actions/workflows/ci.yml/badge.svg)](https://github.com/levinuxx/meu-projeto-devops/actions/workflows/ci.yml)
+
 # Meu Projeto DevOps
 
 Projeto construído no Bootcamp DevOps Matera 2026.
